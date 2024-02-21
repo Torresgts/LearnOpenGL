@@ -1,0 +1,4 @@
+﻿  LearnOpenGL.cpp
+LearnOpenGL.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+D:\_PROJECTS\_PERSONAL\OpenGL\lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\_PROJECTS\_PERSONAL\LearnOpenGL\Debug\LearnOpenGL.exe : fatal error LNK1120: 1 unresolved externals
